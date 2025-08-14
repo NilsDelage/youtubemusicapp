@@ -16,6 +16,11 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "YouTube Music App - Wrong URL Bro 💀",
   description: "You typed it wrong fr fr no cap - redirect to the real YouTube Music",
+  icons: {
+    icon: '/icon.svg',
+    shortcut: '/icon.svg',
+    apple: '/icon.svg',
+  },
 };
 
 export default function RootLayout({
