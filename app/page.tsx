@@ -18,7 +18,7 @@ export default function Home() {
           
           <div className="space-y-4 text-lg sm:text-xl text-foreground/70">
             <p className="animate-slide-in" style={{animationDelay: "0.2s"}}>
-              bro really said &ldquo;youtubemusicapp&rdquo; 😭😭😭
+              bro really said &quot;youtubemusicapp&quot; 😭😭😭
             </p>
             <p className="animate-slide-in" style={{animationDelay: "0.4s"}}>
               that aint it chief, u lookin for YouTube Music frfr
